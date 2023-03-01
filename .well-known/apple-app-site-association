@@ -8,6 +8,14 @@
         ],
         "components": [
           {
+            "/": "/*",
+            "comment": "test"
+          },
+          {
+            "/": "/item/*",
+            "comment": "test"
+          },
+          {
             "/": "/app/*",
             "comment": "test"
           }
